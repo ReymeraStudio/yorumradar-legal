@@ -8,8 +8,6 @@ Bu depo yalnızca **YorumRadar** Chrome extension için gizlilik politikası ve 
 
 https://reymerastudio.github.io/yorumradar-legal/privacy-policy.html
 
-Chrome Web Store başvurusunda **Privacy policy URL** alanına yukarıdaki adres girilir.
-
 ## GitHub Pages Ayarları
 
 | Ayar | Değer |
