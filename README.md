@@ -2,10 +2,6 @@
 
 Bu depo yalnızca **YorumRadar** Chrome extension için gizlilik politikası ve yasal dokümanları barındırır.
 
-Ana extension kaynak kodu **private** repoda tutulur:
-
-- https://github.com/ReymeraStudio/yorum_radar_chrome_extension (private)
-
 ## Gizlilik Politikası (GitHub Pages)
 
 **Canlı URL:**
